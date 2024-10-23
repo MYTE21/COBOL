@@ -31,11 +31,11 @@ cobc --version
 **Build Code:**
 
 ```powershell
-cobc -x <file-name>.cbl
+cobc -x file_name.cbl
 ```
 
 **Run Code:**
 
 ```powershell
-./<file-name>
+./file_name
 ```
